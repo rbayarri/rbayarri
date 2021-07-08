@@ -12,6 +12,8 @@ Para ver toda mi información y proyectos visita mi portfolio online :point_righ
 
 #### Habilidades
 
+* Java
+* Python
 * PHP
 * JavaScript
 * SQL
