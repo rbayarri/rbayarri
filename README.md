@@ -25,6 +25,5 @@ Trabajo bien en equipos y soy de rápida adaptación y aprendizaje.
 * CSS
 * Bootstrap
 
-### Encontrame en los siguientes sitios
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/renzo-bayarri/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rbayarri.github.io)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/renzo-bayarri/)
 
