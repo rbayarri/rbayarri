@@ -3,15 +3,14 @@
 
 Soy Renzo Bayarri, me recibí en 2017 de Contador Público Nacional en la Universidad Nacional de Cuyo. Ejerciendo mi profesión conocí el mundo de la programación y me apasionó.
 
-Desde entonces estudio programación de forma autodidacta (tanto front-end como back-end) y quiero empezar a trabajar y crecer en esta industria. Soy una persona comprometida, responsable y proactiva.
+Desde entonces estudio programación de forma autodidacta y quiero empezar a trabajar y crecer en esta industria. Soy una persona comprometida, responsable y proactiva.
 Me encanta encarar nuevos retos, desafíos y aprender las nuevas tecnologías.
 
 Trabajo bien en equipos y soy de rápida adaptación y aprendizaje.
 
-Para ver toda mi información y proyectos visita mi portfolio online :point_right: [Portfolio](http://rbayarri.github.io)
-
 #### Habilidades
 
+* Scrum
 * Java
 * Python
 * PHP
@@ -27,5 +26,5 @@ Para ver toda mi información y proyectos visita mi portfolio online :point_righ
 * Bootstrap
 
 ### Encontrame en los siguientes sitios
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rbayarri)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/renzo-bayarri/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rbayarri.github.io)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/renzo-bayarri/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rbayarri.github.io)  
 
